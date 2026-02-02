@@ -35,6 +35,16 @@ Depending on the assignment, topics include:
 
 ---
 
+# Dataset
+
+The dataset used for this assignment is not included in the repository
+due to its large size.
+
+It was provided as part of the Big Data Systems Engineering course.
+
+To reproduce the assignment:
+- Obtain the dataset via https://www.kaggle.com/datasets/jiashenliu/515k-hotel-reviews-data-in-europe
+
 ## Notes
 - This project represents course assignments, not a finished product
 - The focus is on learning outcomes and applied understanding
